@@ -518,6 +518,9 @@ https://drive.google.com/file/d/1pYSeDk_RlhJqtyYw0UycIfjZ6fQya0Ix/view?usp=shari
 
 [**04.ProjetoDataLab-powerbi**](https://drive.google.com/file/d/1FTop_IAayA3DNnPMnoLEhVQv1RC9iwuo/view) (Mayara)
 
+## Dashboard
+![Dashboard](https://github.com/Mayara-alvess/04.Projeto-DataLab/blob/main/04.projeto/Dashboard.png)
+
 
 **Github**:
 https://github.com/debvasconcellos/projeto004-atrasos-de-voos-datalab (Débora)
