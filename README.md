@@ -1,6 +1,6 @@
 # Ficha Técnica: Projeto Análise de Dados 4
 
-## Título do Projeto: Atrasos de Voo
+## Título do Projeto: Atrasos de Voos
 
 ---
 
